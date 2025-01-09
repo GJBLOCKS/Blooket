@@ -121,7 +121,7 @@
                     }, l("div", {
                             id: "backgroundImage",
                             style: {
-                                backgroundImage: "url(https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Blooket%20Background.png?raw=true)",
+                                backgroundImage: "url(https://github.com/GJ_BLOCKS/Blooket-Cheats-Premium/blob/main/System%20Images/Blooket%20Background.png?raw=true)",
                                 display: "block",
                                 height: "200%",
                                 position: "absolute",
