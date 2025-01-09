@@ -26,7 +26,7 @@
         const link = document.createElement('link');
         link.setAttribute('rel', 'stylesheet');
         link.setAttribute('type', 'text/css');
-        link.setAttribute('href', 'https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/refs/heads/main/Assets/CSS');
+        link.setAttribute('href', 'https://raw.githubusercontent.com/GJ_BLOCKS/Blooket-Cheats-Premium/refs/heads/main/Assets/CSS');
         document.head.appendChild(link);
     })()
 
